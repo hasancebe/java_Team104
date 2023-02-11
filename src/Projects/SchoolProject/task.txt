@@ -1,0 +1,36 @@
+/*
+ CODE A SCHOOL MANAGEMENT PLATFORM.
+
+ 1. In this program, we will work on Student and Teacher Registration.
+ Records should contain the following information:
+
+ Teacher: Name-Surname, ID No, age, department, and registration number should contain information.
+ Student: Name-Surname, ID No, age, number, class information should be included.
+
+ 2. When the program starts, User can choose the Teacher and Student actions.
+ Show a menu like the one below.
+
+ ======================================
+ STUDENT AND TEACHER ADMINISTRATION PANEL
+ ======================================
+ 1- STUDENT TRANSACTIONS
+ 2- TEACHER PROCEDURES
+ Q- EXIT
+
+ 3. Another sub-menu will be displayed showing the following operations according to the selected Contact type.
+
+ ============= TRANSACTIONS ===============
+ 1-ADD
+ 2-SEARCH
+ 3-LISTING
+ 4-DELETE
+ 5-MAIN MENU
+ Q-OUT
+
+
+4. According to the job selected in the Operations menu, operations such as adding,
+deleting and searching for the person type should be able to be done, and
+listing all existing people should be possible.
+In addition, it should be possible to return to the upper menu or exit.
+
+   */
